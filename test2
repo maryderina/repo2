@@ -1,0 +1,5 @@
+echo "this is a test file"
+a=10
+b=12
+c=$a + $b
+echo $c
