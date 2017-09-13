@@ -4,3 +4,4 @@
     echo
     echo Thankyou $username we now have your login details
     echo your password is $password
+    echo "this is a test msg!!!!!!"
